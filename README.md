@@ -1,18 +1,8 @@
-# 💫 About Me
-I am an expert in smart contract, NFT Website, NFT Art Generation, and NFT Game Marketplace, Solidity, Rust, Web3, Solana, EVM based network chains, Custom smart contracts, ERC20/721/721A, ERC1155, SPL, NFTs, IDO's, Bridges Block explorers, UI Web3 Dapp Integration, IPFS.
-
-I would like to demonstrate a couple of projects from my portfolio to prove my skills and experience in NFT/Blockchain development.
-
-Web3/NFT/Smart contract example:
-As an NFT/smart contract example from my portfolio I would also like to demonstrate ZestBloom which is a next generation Digital Media marketplace seeking to offer a brand-new way of experiencing Crypto Art while simultaneously supporting and promoting artists for their contributions. It is built on Algorand (https://www.algorand.com/nft), one of the fastest and most efficient blockchains to date allowing to facilitate purchases and track ownership of assets, with significantly reduced fees and smaller carbon footprint. Please check the link to the website below:
-https://zestbloom.com/
-
-Web3/Blockchain/Cryptocurrency example:
-Another project I would like to demonstrate is Insight Prediction, which is a betting platform for different events (markets). Users get wallets for different crypto coins (USDC, BTC, ETH) to deposit money into the system, place bids for different events and convert between different crypto coins to withdraw the money from their account.
-1. Perform complex calculations for share creation, as well as the resolved markets.
-2. Show statistics on the profits, ROI, and the harmonic average based on the ranking.
-3. While migrating markets from other platforms, convert into the respective format to be able to import into platform.
-4. Ensure a total synchronization of the platforms so that the market is updated immediately in platform whenever it gets updated in the original platform. We have used WebSocket to ensure this synchronization.
+# 💫 Summary
+Software development is a great passion of mine. I have been working as a remote freelancer for 8 years, and it has given me the opportunity to work on such a breadth of exciting projects. I have been able to hone my skills in backend development(Node.js, Laravel, Django, Golang, Rust), frontend development(React.js, Next.js, Angular, Vue.js), as well as various desktop applications and script writing (Python, Electron.js, C#). I am well-versed in Machine Learning, Deep Learning, Artificial Intelligence, Blockchain, Smart Contracts, CRM, ERP, and Cloud platforms. Also, with strong leading skills and unrivaled building skills, I can make products the best they can be.
+I really love working on complex projects, using my expertise, taking the time to really think through the requirements, and delivering clean, well-tested code on time.
+I am used to working with agile methodology and the organizational tools of modern software development (GitHub/GitLab, Jira, Trello) though I am flexible to the client's needs.
+I always welcome communication with technical or non-technical users and clients alike to gather requirements and track progress.
 
 # 🚀 SKILLS
 <!--
