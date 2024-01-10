@@ -98,11 +98,42 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div> 
 
+<div align="center">
+  <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
+</div> 
+
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+</p>
+
+<div align="center">
+  <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
+</div> 
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&line_height=27&line_width=80">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naruhitokaide" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:naruhitokaide@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/wDpwy4t21eVg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/fantasy1114" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  
+</p>
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 # Test
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+
+
+<h2 align="center"> Thanks for visiting my profile. </h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
