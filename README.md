@@ -90,19 +90,19 @@
   </table>
 </div>
 
-</span>
-- Ethereum, Binance, Polygon, Arbitrum, Avalanche, Solana, Aptos/Sui, Stellar, Cosmos, Polkadot <br/>
-- Token, ICO, IDO <br/>
-- DeFi, DEX, NFT marketplace <br/>
-- GMX, Tornado Cash <br/>
-- Cross-chain bridge <br/>
-- Hardhat, Truffle, Remix <br/>
-- Solidity, Rust, Go <br/>
-- Web3.js, Cosm.js <br/>
-- React, Vue.js, Angular <br/>
-</span>
+<div align="center">
+  <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
+</div> 
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
+</div> 
 
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
+# Test
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+</p>
