@@ -102,13 +102,21 @@
   <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
 </div> 
 
+<p align="center">
+  <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+</p>
+
+<p align="center">
+  <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</p>
+
 <div style="display: flex; justify-content: center;">
   <span>
-    <img height = "200px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+    <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
   </span>
 
   <span>
-    <img height = "200px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
   </span>
 </div>
 
