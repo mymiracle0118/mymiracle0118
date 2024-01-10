@@ -102,17 +102,15 @@
   <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
 </div> 
 
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
+<div style="display: flex; justify-content: center;">
+  <span>
+    <img height = "200px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+  </span>
 
-<div align="center">
-  <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
-</div> 
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p>
+  <span>
+    <img height = "200px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  </span>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mymiracle0118" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
