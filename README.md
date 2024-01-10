@@ -1,3 +1,12 @@
+<h1 align="center">
+  Welome come to visit my github
+</h1>
+<h2 align="center">
+  I am a Full Stack & Blockchain Developer.
+</h2>
+<div align="center">
+  <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider1.png" alt="divider"/>
+</div> 
 # 💫 Summary
 Software development is a great passion of mine. I have been working as a remote freelancer for 3 years, and it has given me the opportunity to work on such a breadth of exciting projects. I have been able to hone my skills in backend development(Node.js, Laravel, Django, Golang, Rust), frontend development(React.js, Next.js, Angular, Vue.js), as well as various desktop applications and script writing (Python, Electron.js, C#). I am well-versed in Machine Learning, Deep Learning, Artificial Intelligence, Blockchain, Smart Contracts, CRM, ERP, and Cloud platforms. Also, with strong leading skills and unrivaled building skills, I can make products the best they can be.
 I really love working on complex projects, using my expertise, taking the time to really think through the requirements, and delivering clean, well-tested code on time.
