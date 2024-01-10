@@ -110,7 +110,7 @@
   <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
-<div style="display: flex; justify-content: center;">
+<!-- <div style="display: flex; justify-content: center;">
   <span>
     <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
   </span>
@@ -118,7 +118,7 @@
   <span>
     <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
   </span>
-</div>
+</div> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mymiracle0118" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
@@ -129,19 +129,14 @@
   &nbsp;&nbsp;
   <a href="https://t.me/SweetDreamhaha" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
+  <a href="https://discord.gg/eSH6BbWx" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
+  &nbsp;&nbsp;
   <a href="https://julioacin-portfolio.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
-  
 </p>
 
 <div align="center">
   <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider1.png" alt="divider"/>
 </div> 
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
-# Test
-
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
