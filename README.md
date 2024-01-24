@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welome come to visit my github
+  Welcome to visit my github
 </h1>
 <h2 align="center">
   I am a Full Stack & Blockchain Developer.
