@@ -2,7 +2,7 @@
   Welcome to visit my github
 </h1>
 <h2 align="center">
-  I am a Full Stack & Blockchain Developer.
+  I am a Full Stack & Blockchain Developer & Smart Contract Auditor.
 </h2>
 <div align="center">
   <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider1.png" alt="divider"/>
@@ -66,6 +66,7 @@
  <table>
     <tr>
       <td valign="center" width="100px"><b>Blockchain<b></td>
+      <td valign="center" width="100px"><b>Audit<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -78,15 +79,13 @@
         <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
         <img src="https://img.shields.io/badge/Bitcoin-blue" />
       </td>
-     <!-- <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/Photoshop-blue" /> 
-       <img src="https://img.shields.io/badge/Adobe XD-blue" /> 
-       <img src="https://img.shields.io/badge/Figma-blue" /> 
-       <img src="https://img.shields.io/badge/Blender-blue" /> 
-       <img src="https://img.shields.io/badge/WebGL-blue" /> 
-       <img src="https://img.shields.io/badge/Three.js-blue" /> 
+     <td valign="center" align="center" width="300px">
+       <img src="https://img.shields.io/badge/Code4rena-blue" /> 
+       <img src="https://img.shields.io/badge/Sherlock-blue" /> 
+       <img src="https://img.shields.io/badge/Hats-blue" /> 
+       <img src="https://img.shields.io/badge/Cantina-blue" />
       </td>
-    </tr> -->
+    </tr>
   </table>
 </div>
 
