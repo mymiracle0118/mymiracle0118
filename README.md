@@ -72,7 +72,7 @@
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Web3.js-blue" /> 
         <img src="https://img.shields.io/badge/Solidity-blue" /> 
-        <img src="https://img.shields.io/badge/Ethers.js-blue" /> 
+        <img src="https://img.shields.io/badge/Polkadot-blue" /> 
         <img src="https://img.shields.io/badge/Solana-blue" /> 
         <img src="https://img.shields.io/badge/Golang-blue" /> 
         <img src="https://img.shields.io/badge/Rust-blue" /> 
