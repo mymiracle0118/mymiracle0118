@@ -91,22 +91,22 @@
 
 <div align="center">
   <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
-</div> 
+</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
-</div> 
+</div>
 
 <div align="center">
   <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider2.png" alt="divider"/>
-</div> 
+</div>
 
 <p align="center">
   <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=mymiracle0118&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
 <p align="center">
-  <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mymiracle0118&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 <!-- <div style="display: flex; justify-content: center;">
@@ -120,7 +120,7 @@
 </div> -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mymiracle0118" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  <a href="https://www.linkedin.com/in/iwaki-hiroto" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="mailto:noahsflood908@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
@@ -135,7 +135,7 @@
 
 <div align="center">
   <img src="https://github.com/mymiracle0118/mymiracle0118/blob/main/divider1.png" alt="divider"/>
-</div> 
+</div>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
