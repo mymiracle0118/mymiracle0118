@@ -120,7 +120,7 @@
 </div> -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/iwaki-hiroto" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  <a href="https://linkedin.com/in/hiroto-iwaki-54b207306" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="mailto:noahsflood908@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
