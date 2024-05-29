@@ -1,7 +1,4 @@
 <h1 align="center">
-  Several Scammers are using my github. So if you want to make sure who is the owner of this github, you can require to follow your github account or modify readme file.
-</h1>
-<h1 align="center">
   Welcome to visit my github
 </h1>
 <h2 align="center">
